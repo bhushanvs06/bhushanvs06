@@ -7,17 +7,16 @@
 ## 🚀 About Me
 
 I'm Bhushan, an 18-year-old computer science student driven by curiosity, creativity, and a passion for AI.
-I'm currently building meaningful projects that combine tech, art, and purpose — from **AI-powered mentors** to **intelligent content creators**, 
-and even **YouTube-inspired creative platforms**.
+I'm currently building meaningful projects that combine tech, art, and purpose — from **[AI-powered mentors](https://github.com/bhushanvs06/bluetoe)** to **intelligent content creators**, 
+and even **[YouTube-inspired creative platforms](https://github.com/bhushanvs06/videofy)**.
 
 ---
 
 ## 👨‍💻 My Current Focus
 
 - 🎥 Building **Videofy** – A smart video editor that learns your editing style and helps create content effortlessly.
-- 🧑‍🏫 Developing an **AI Teacher** for personalized learning experiences.
-- 💼 Working on **Soulful Arts** – A platform where artists meet tech, blending YouTube, Amazon, and Facebook vibes.
-- 🔍 AI project: **Analyzer for Targeted Career Opportunities** – finding perfect job matches using AI.
+- 🧑‍🏫 Developing an **[AI Teacher](https://github.com/bhushanvs06/bluetoe)** for personalized learning experiences.
+- 🔍 AI project: **[Analyzer for Targeted Career Opportunities](https://github.com/bhushanvs06/bluetoe)** – finding perfect job matches using AI.
 
 ---
 
