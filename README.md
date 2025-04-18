@@ -14,7 +14,7 @@ and even **[YouTube-inspired creative platforms](https://github.com/bhushanvs06/
 
 ## 👨‍💻 My Current Focus
 
-- 🎥 Building **Videofy** – A smart video editor that learns your editing style and helps create content effortlessly.
+- 🎥 ***Building**  **Videofy** – A smart video editor that learns your editing style and helps create content effortlessly.
 - 🧑‍🏫 Developing an **[AI Teacher](https://github.com/bhushanvs06/bluetoe)** for personalized learning experiences.
 - 🔍 AI project: **[Analyzer for Targeted Career Opportunities](https://github.com/bhushanvs06/bluetoe)** – finding perfect job matches using AI.
 
