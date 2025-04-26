@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm Bhushan, an 18-year-old computer science student driven by curiosity, creativity, and a passion for AI.
+I'm Bhushan, an 19-year-old computer science student driven by curiosity, creativity, and a passion for AI.
 I'm currently building meaningful projects that combine tech, art, and purpose — from **[AI-powered mentors](https://github.com/bhushanvs06/bluetoe)** to **intelligent content creators**, 
 and even **[YouTube-inspired creative platforms](https://github.com/bhushanvs06/videofy)**.
 
